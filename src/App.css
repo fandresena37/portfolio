@@ -1,0 +1,12 @@
+/* #root {
+  scroll-behavior: smooth;
+}
+body {
+  scroll-behavior: smooth;
+} */
+
+.rayure{
+  background-size: 10px 10px;
+  transform: rotate(45deg);
+  background-color: transparent;
+}
