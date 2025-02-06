@@ -13,7 +13,7 @@ export const Electricbg = () => {
   }, []);
 
   const particlesLoaded = async (container?: Container) => {
-    // console.log("Particles loaded:", container);
+    console.log("Particles loaded:", container);
   };
 
   return (
